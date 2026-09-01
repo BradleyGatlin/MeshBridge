@@ -1,0 +1,1 @@
+MeshBridge prototype code. See the upstream project licenses before redistributing code derived from third-party implementations.
